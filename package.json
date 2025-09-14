@@ -1,0 +1,24 @@
+{
+  "name": "sp26",
+  "version": "1.0.0",
+  "description": "LLMs for Software Engineers CS 598 JT",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uiuc-cs598jt/sp26.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uiuc-cs598jt/sp26/issues"
+  },
+  "homepage": "https://github.com/uiuc-cs598jt/sp26#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
